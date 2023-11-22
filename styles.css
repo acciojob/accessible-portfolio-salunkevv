@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.see{
+	color:blue;
+}
+.see>img{
+	border:10px;
+	border-color:black;
+}
